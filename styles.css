@@ -2,6 +2,10 @@ body {
   background-color: #4894db;
 }
 
+@font-face{
+    font-family: Helvetica;
+}
+
 h1 {
   font-family: Imago;
   color: white;
@@ -13,11 +17,15 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  font-size: 15px;
 }
 
 p {
   font-family: Imago;
+  font-size: 30px;
 }
+
+
 
 img {
   display: block;
