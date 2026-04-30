@@ -6,8 +6,37 @@ body {
     font-family: Helvetica;
 }
 
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: ##ff2965;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #e0d3d7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #e0d3d7;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4894db;
+  color: #e0d3d7;
+}
+
+
 h1 {
-  font-family: Imago;
+  font-family: Helvetica;
   color: white;
   text-align: center;
   font-size: 40px;

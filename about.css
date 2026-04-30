@@ -1,0 +1,37 @@
+body {
+    background:url('aboutpage.gif') repeat-y 100% 100% fixed;
+	background-position: center center;
+    height:100%;
+    width:100%;
+}
+
+
+h1 {
+	text-align: center;
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+
+
+
+
+p {
+  font-family: Imago;
+  font-size: 30px;
+}
+
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+
+
+
