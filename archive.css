@@ -1,0 +1,13 @@
+body {
+ background-image: url("Archivepage.jpg");
+ background-color: #ffffff;
+ background-repeat: repeat;
+   background-size: 300px 200px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
