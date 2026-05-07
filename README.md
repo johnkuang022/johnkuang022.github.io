@@ -52,7 +52,9 @@ Then, I used the same resrouces to make cosmetic changes to the navigation bar i
 .topnav a.active {
   background-color: #4894db;
   color: #e0d3d7;
-}```
+}
+```
+
 
 Adding the topnav bar made me realize that I have to make a separate .html file for each of the pages, and reference them as the source in the index.html file that is essentially the "home page."
 
