@@ -73,7 +73,8 @@ I then converted a video to a .gif file, then I wanted to set that file as the b
 	background-position: center center;
     height:100%;
     width:100%;
-}```
+}
+```
 
 I then copied our band's EPK, and used ```<marquee>``` to make it run across the screen. I then just copied it a bunch of times so that it covers the entire screen.
 	
@@ -91,10 +92,12 @@ My last steps were to add some cosmetic changes to the home page. I first added 
 
 I really like Imago, so I downloaded the .ttf file from the internet and put it in the folder of my website. Then, I used this code from [W3Schools](https://www.w3schools.com/css/css3_fonts.asp) to change the fontface:
 
-```@font-face {
+```
+@font-face {
   font-family: myFont; /* set name */
   src: url(sansation_light.woff); /* url of the font */
-}```
+}
+```
 
 # Conclusion
 
