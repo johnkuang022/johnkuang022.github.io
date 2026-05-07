@@ -21,11 +21,13 @@ To add a topnav, I used a code from [W3Schools](https://www.w3schools.com/css/de
   <a class="active" href="#home">Home</a>
   <a href="about.html">About</a>
   <a href="archive.html">Archive</a>
-</div>```
+</div>
+```
 
 Then, I used the same resrouces to make cosmetic changes to the navigation bar in the .css file: 
 
-```/* Add a black background color to the top navigation */
+```
+/* Add a black background color to the top navigation */
 .topnav {
   background-color: ##ff2965;
   overflow: hidden;
@@ -68,7 +70,8 @@ My next step was to create the .html files of the other pages of my website. It 
 
 I then converted a video to a .gif file, then I wanted to set that file as the background of the page. [This particular thread](https://stackoverflow.com/questions/21590343/how-to-display-a-gif-fullscreen-for-a-webpage-background) on stackoverflow was very helpful. It was very simple because all I had to do was use the url to reference the .gif file's name, and position it in the center with the right ratios.
 
-```body {
+```
+body {
     background:url('aboutpage.gif') repeat-y 100% 100% fixed;
 	background-position: center center;
     height:100%;
